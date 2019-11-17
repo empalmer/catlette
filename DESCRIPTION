@@ -1,0 +1,11 @@
+Package: catlette
+Type: Package
+Title: Cat Colors R Palettes
+Version: 0.1.0
+Author: Emily Palmer
+Maintainer: <palmerem@oregonstate.edu>
+Description: R color palette based off colors of four of my cats
+Encoding: UTF-8
+License: GPL-2 
+LazyData: true
+RoxygenNote: 6.1.1

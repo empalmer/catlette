@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "image", "par", "text")
+importFrom("stats", "median")
