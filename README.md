@@ -52,7 +52,9 @@ cat_palette(name="Nicholas",type="continuous")
   <img src="Figures/Nicholas.png" width="400" />
   <img src="Figures/Nicholas.jpeg" width="400" /> 
 </p>
+
 ## Example
+
 Location of stray pets picked up in Austin area, based on data downloaded November 15th 2019 from <https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Stray-Map/kz4x-q9k5>.
 
 <center><img src="Figures/StrayPets.png"></center>
