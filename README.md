@@ -19,31 +19,39 @@ devtools::install_github("empalmer/catlette")
 ```{r}
 cat_palette(name="Chestnut",type="continuous")
 ```
-<center><img src="Figures/Chestnut.png"></center>
-<center><img src="Figures/Chestnut.jpeg"></center>
 
+<p float="left">
+  <img src="Figures/Chestnut.png" width="400" />
+  <img src="Figures/Chestnut.jpeg" width="400" /> 
+</p>
 
 ### Pumpkin (left)
 ```{r}
 cat_palette(name="Pumpkin",type="continuous")
 ```
-<center><img src="Figures/Pumpkin.png"></center>
-<center><img src="Figures/SnowAndPumpkin.jpeg"></center>
+
+
+<p float="left">
+  <img src="Figures/Pumpkin.png" width="400" />
+  <img src="Figures/SnowAndPumpkin.jpeg" width="400" /> 
+</p>
 
 ### SnowLion (right)
 ```{r}
 cat_palette(name="SnowLion",type="continuous")
 ```
-<center><img src="Figures/SnowLion.png"></center>
-
+<p float="left">
+  <img src="Figures/SnowLion.png" width="400" />
+  <img src="Figures/SnowAndPumpkin.jpeg" width="400" /> 
+</p>
 ### Nicholas
 ```{r}
 cat_palette(name="Nicholas",type="continuous")
 ```
-<center><img src="Figures/Nicholas.png"></center>
-<center><img src="Figures/Nicholas.jpeg"></center>
-
-
+<p float="left">
+  <img src="Figures/Nicholas.png" width="400" />
+  <img src="Figures/Nicholas.jpeg" width="400" /> 
+</p>
 ## Example
 Location of stray pets picked up in Austin area, based on data downloaded November 15th 2019 from <https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Stray-Map/kz4x-q9k5>.
 
