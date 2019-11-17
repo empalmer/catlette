@@ -44,7 +44,9 @@ cat_palette(name="SnowLion",type="continuous")
   <img src="Figures/SnowLion.png" width="400" />
   <img src="Figures/SnowAndPumpkin.jpeg" width="400" /> 
 </p>
+
 ### Nicholas
+
 ```{r}
 cat_palette(name="Nicholas",type="continuous")
 ```
