@@ -59,6 +59,13 @@ cat_palette(name="Nicholas",type="continuous")
 
 Location of stray pets picked up in Austin area, based on data downloaded November 15th 2019 from <https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Stray-Map/kz4x-q9k5>.
 
+```r
+qmplot(x = lon,y = lat,data=cat_data) +
+    stat_density_2d(aes(fill = ..level..),
+                    geom = "polygon",
+                    alpha = .3) +
+    scale_fill_gradientn(colours = cat_palette(name="Chestnut",type="continuous"))
+```
 <center><img src="Figures/StrayPets.png"></center>
 
 
